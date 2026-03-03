@@ -7,7 +7,7 @@ El juego incluye lógica de flujo condicional, bucles, generación aleatoria y c
 # Tecnologías utilizadas
 Lenguaje: Java
 
-IDE recomendado: NetBeans, IntelliJ IDEA o Eclipse
+IDE: IntelliJ 
 
 Librerías:
 
