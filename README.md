@@ -9,8 +9,4 @@ Lenguaje: Java
 
 IDE: IntelliJ 
 
-Librerías:
-
-java.util.Scanner para entrada por teclado
-
-java.util.Random para generación de dados
+Librerías: java.util.Scanner para entrada por teclado / java.util.Random para generación de dados
